@@ -26,4 +26,4 @@ sg.ShadingQuality=0
 7. Save the file
 
 ## Download
-Build it from source yourself (You need the .NET6 SDK) or download from the release section.
+Build it from source yourself (You need the .NET6 SDK) or download from the [release section](https://github.com/SteffenCarlsen/ValorantForceLowSettings/releases).
